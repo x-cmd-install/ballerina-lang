@@ -7,7 +7,7 @@ The Ballerina Programming Language
 - **Latest release**: `v2201.13.6` (2026-09-02)
 - **Last commit**: 2026-08-28
 - **License**: Apache-2.0
-- **Stars**: 3850 · **Forks**: 832 · **Open issues**: 18492 · **Contributors**: 373
+- **Stars**: 3850 · **Forks**: 832 · **Open issues**: 18493 · **Contributors**: 373
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/ballerina-lang> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:22:53Z._
+_Last regenerated: 2026-09-09T20:46:52Z._
