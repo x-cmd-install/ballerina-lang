@@ -7,7 +7,7 @@ about:
   latestVersion: "v2201.13.6"
   latestRelease: "v2201.13.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:22:25Z
+  collectedAt: 2026-09-10T23:36:39Z
 timeline:
   created: 2016-11-16
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 3851
+  star: 3852
   watcher: 155
   fork: 833
   release: 259
@@ -90,7 +90,7 @@ total:
   commit: 127475
 ---
 path: /home/runner/.x-repo/github.com/ballerina-platform/ballerina-lang
-collectedAt: 2026-09-10T18:24:24Z
+collectedAt: 2026-09-10T23:38:28Z
 loc:
   Json:
     code: 1528320
