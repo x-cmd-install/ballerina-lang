@@ -14,14 +14,14 @@ x install ballerina-lang
 
 ## Code insight
 
-Total: **2,237,374** lines of code across **13448** files in the top 5 languages.
+Total: **2,239,120** lines of code across **13465** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,528,320 | 0 | 21 | 5466 |
-| Java | 664,416 | 187,601 | 116,817 | 6186 |
+| Java | 665,935 | 188,063 | 116,992 | 6190 |
 | JavaScript | 19,215 | 220 | 1,190 | 4 |
-| Toml | 16,342 | 880 | 2,314 | 1607 |
+| Toml | 16,569 | 892 | 2,349 | 1620 |
 | Xml | 4,483 | 2,088 | 165 | 185 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2201.13.6` (2026-09-02)
-- **Last commit**: 2026-08-28
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 3,852 · **Forks**: 833 · **Open issues**: 18,494 · **Contributors**: 373
+- **Stars**: 3,852 · **Forks**: 833 · **Open issues**: 18,497 · **Contributors**: 375
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 22071 · **Open PRs**: 52 · **Closed issues**: 16931 · **Open issues**: 1563 · **Commits**: 127475
+- **Releases**: 259 · **Merged PRs**: 22072 · **Open PRs**: 52 · **Closed issues**: 16931 · **Open issues**: 1566 · **Commits**: 127578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 7 | 12 | 0 | 14 | 2 |
-| last60d | 2026-07-12 | 2 | 16 | 20 | 1 | 20 | 2 |
-| 90d | 2026-06-12 | 2 | 23 | 27 | 5 | 28 | 6 |
-| last180d | 2026-03-14 | 5 | 60 | 43 | 15 | 44 | 84 |
-| 360d | 2025-09-15 | 9 | 166 | 50 | 80 | 84 | 467 |
-| last720d | 2024-09-20 | 35 | 580 | 52 | 251 | 236 | 1777 |
+| 30d | 2026-08-12 | 1 | 7 | 12 | 0 | 17 | 30 |
+| last60d | 2026-07-13 | 2 | 16 | 20 | 1 | 23 | 65 |
+| 90d | 2026-06-13 | 2 | 24 | 27 | 5 | 31 | 92 |
+| last180d | 2026-03-15 | 5 | 61 | 43 | 15 | 47 | 186 |
+| 360d | 2025-09-16 | 9 | 166 | 50 | 78 | 87 | 569 |
+| last720d | 2024-09-21 | 35 | 581 | 52 | 251 | 239 | 1845 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:38:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:24:54Z._
