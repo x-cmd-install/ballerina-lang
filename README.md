@@ -14,12 +14,12 @@ x install ballerina-lang
 
 ## Code insight
 
-Total: **2,239,517** lines of code across **13466** files in the top 5 languages.
+Total: **2,239,512** lines of code across **13466** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,528,382 | 0 | 21 | 5466 |
-| Java | 665,987 | 188,070 | 116,992 | 6190 |
+| Java | 665,983 | 188,070 | 116,992 | 6190 |
 | JavaScript | 19,215 | 220 | 1,190 | 4 |
 | Toml | 16,572 | 892 | 2,349 | 1620 |
 | Xml | 4,761 | 2,105 | 166 | 186 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,856 · **Forks**: 833 · **Open issues**: 18,501 · **Contributors**: 375
+- **Stars**: 3,856 · **Forks**: 834 · **Open issues**: 18,507 · **Contributors**: 375
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 22077 · **Open PRs**: 51 · **Closed issues**: 16932 · **Open issues**: 1569 · **Commits**: 127625
+- **Releases**: 259 · **Merged PRs**: 22078 · **Open PRs**: 51 · **Closed issues**: 16933 · **Open issues**: 1574 · **Commits**: 127627
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 11 | 10 | 1 | 17 | 45 |
-| last60d | 2026-07-19 | 2 | 20 | 14 | 2 | 23 | 76 |
-| 90d | 2026-06-19 | 2 | 27 | 27 | 5 | 31 | 111 |
-| last180d | 2026-03-21 | 5 | 65 | 42 | 15 | 50 | 230 |
-| 360d | 2025-09-22 | 9 | 163 | 49 | 72 | 89 | 578 |
-| last720d | 2024-09-27 | 35 | 580 | 51 | 245 | 238 | 1861 |
+| 30d | 2026-08-19 | 1 | 12 | 10 | 2 | 22 | 47 |
+| last60d | 2026-07-20 | 2 | 21 | 14 | 3 | 28 | 78 |
+| 90d | 2026-06-20 | 2 | 28 | 27 | 6 | 36 | 113 |
+| last180d | 2026-03-22 | 5 | 66 | 42 | 16 | 55 | 232 |
+| 360d | 2025-09-23 | 9 | 163 | 48 | 73 | 94 | 580 |
+| last720d | 2024-09-28 | 34 | 581 | 51 | 246 | 243 | 1861 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:53:05Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:30:55Z._
