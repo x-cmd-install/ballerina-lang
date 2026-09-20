@@ -4,7 +4,7 @@
 
 The Ballerina Programming Language
 
-![ballerina-lang](https://repo.x-cmd.io/ballerina-lang.svg)
+[![x-cmd/install — ballerina-lang Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ballerina-lang.svg)](https://x-cmd.com/install/ballerina-lang)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,856 · **Forks**: 834 · **Open issues**: 18,507 · **Contributors**: 375
+- **Stars**: 3,856 · **Forks**: 834 · **Open issues**: 18,508 · **Contributors**: 375
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 22078 · **Open PRs**: 51 · **Closed issues**: 16933 · **Open issues**: 1574 · **Commits**: 127627
+- **Releases**: 259 · **Merged PRs**: 22079 · **Open PRs**: 53 · **Closed issues**: 16933 · **Open issues**: 1575 · **Commits**: 127627
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 12 | 10 | 2 | 22 | 47 |
-| last60d | 2026-07-20 | 2 | 21 | 14 | 3 | 28 | 78 |
-| 90d | 2026-06-20 | 2 | 28 | 27 | 6 | 36 | 113 |
-| last180d | 2026-03-22 | 5 | 66 | 42 | 16 | 55 | 232 |
-| 360d | 2025-09-23 | 9 | 163 | 48 | 73 | 94 | 580 |
-| last720d | 2024-09-28 | 34 | 581 | 51 | 246 | 243 | 1861 |
+| 30d | 2026-08-21 | 1 | 12 | 11 | 2 | 22 | 37 |
+| last60d | 2026-07-22 | 2 | 20 | 16 | 3 | 28 | 66 |
+| 90d | 2026-06-22 | 2 | 29 | 29 | 6 | 37 | 104 |
+| last180d | 2026-03-24 | 5 | 67 | 44 | 16 | 54 | 223 |
+| 360d | 2025-09-25 | 9 | 162 | 49 | 72 | 94 | 531 |
+| last720d | 2024-09-30 | 34 | 582 | 53 | 243 | 244 | 1861 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:30:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:32:30Z._
