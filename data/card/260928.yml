@@ -377,4 +377,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":381085013,"author":{"login":"ballerina-cicd-bot","id":272448456,"node_id":"U_kgDOED07yA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBGgWQc4WtuVV","tag_name":"v2201.13.6","target_commitish":"master","name":"ballerina-lang-v2201.13.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-02T08:25:13Z","updated_at":"2026-09-02T08:25:14Z","published_at":"2026-09-02T08:25:14Z","assets":[],"body":null,"reactions":{"total_count":3,"+1":0,"-1":0,"laugh":0,"hooray":3,"confused":0,"heart":0,"rocket":0,"eyes":0}}
