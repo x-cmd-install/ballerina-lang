@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,863 · **Forks**: 835 · **Open issues**: 18,516 · **Contributors**: 374
+- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,516 · **Contributors**: 374
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 22096 · **Open PRs**: 50 · **Closed issues**: 16937 · **Open issues**: 1579 · **Commits**: 127666
+- **Releases**: 259 · **Merged PRs**: 22097 · **Open PRs**: 49 · **Closed issues**: 16937 · **Open issues**: 1579 · **Commits**: 127666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 22 | 10 | 5 | 19 | 55 |
-| last60d | 2026-08-05 | 1 | 30 | 16 | 5 | 31 | 88 |
-| 90d | 2026-07-06 | 2 | 41 | 24 | 7 | 38 | 129 |
-| last180d | 2026-04-07 | 5 | 81 | 38 | 19 | 56 | 245 |
-| 360d | 2025-10-09 | 9 | 163 | 46 | 66 | 92 | 490 |
-| last720d | 2024-10-14 | 33 | 572 | 50 | 237 | 235 | 1769 |
+| 30d | 2026-09-05 | 0 | 23 | 9 | 5 | 19 | 55 |
+| last60d | 2026-08-06 | 1 | 31 | 15 | 5 | 31 | 88 |
+| 90d | 2026-07-07 | 2 | 42 | 23 | 7 | 37 | 129 |
+| last180d | 2026-04-08 | 5 | 82 | 37 | 19 | 56 | 245 |
+| 360d | 2025-10-10 | 9 | 164 | 45 | 65 | 92 | 490 |
+| last720d | 2024-10-15 | 32 | 573 | 49 | 236 | 235 | 1758 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:08:25Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:56:37Z._
