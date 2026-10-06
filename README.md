@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,516 · **Contributors**: 374
+- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,517 · **Contributors**: 374
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 22097 · **Open PRs**: 49 · **Closed issues**: 16937 · **Open issues**: 1579 · **Commits**: 127666
+- **Releases**: 259 · **Merged PRs**: 22103 · **Open PRs**: 49 · **Closed issues**: 16938 · **Open issues**: 1579 · **Commits**: 127666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 23 | 9 | 5 | 19 | 55 |
-| last60d | 2026-08-06 | 1 | 31 | 15 | 5 | 31 | 88 |
-| 90d | 2026-07-07 | 2 | 42 | 23 | 7 | 37 | 129 |
-| last180d | 2026-04-08 | 5 | 82 | 37 | 19 | 56 | 245 |
-| 360d | 2025-10-10 | 9 | 164 | 45 | 65 | 92 | 490 |
-| last720d | 2024-10-15 | 32 | 573 | 49 | 236 | 235 | 1758 |
+| 30d | 2026-09-06 | 0 | 29 | 9 | 5 | 20 | 55 |
+| last60d | 2026-08-07 | 1 | 37 | 15 | 6 | 31 | 88 |
+| 90d | 2026-07-08 | 2 | 47 | 23 | 8 | 37 | 129 |
+| last180d | 2026-04-09 | 5 | 87 | 37 | 20 | 56 | 245 |
+| 360d | 2025-10-11 | 9 | 170 | 45 | 66 | 92 | 490 |
+| last720d | 2024-10-16 | 32 | 578 | 49 | 236 | 235 | 1757 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:56:37Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:55:13Z._
