@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2201.13.6` (2026-09-02)
+- **Latest**: `v2201.14.0` (2026-10-07)
 - **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,517 · **Contributors**: 374
+- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,520 · **Contributors**: 374
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 22103 · **Open PRs**: 49 · **Closed issues**: 16938 · **Open issues**: 1579 · **Commits**: 127666
+- **Releases**: 260 · **Merged PRs**: 22105 · **Open PRs**: 50 · **Closed issues**: 16940 · **Open issues**: 1580 · **Commits**: 127666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 29 | 9 | 5 | 20 | 55 |
-| last60d | 2026-08-07 | 1 | 37 | 15 | 6 | 31 | 88 |
-| 90d | 2026-07-08 | 2 | 47 | 23 | 8 | 37 | 129 |
-| last180d | 2026-04-09 | 5 | 87 | 37 | 20 | 56 | 245 |
-| 360d | 2025-10-11 | 9 | 170 | 45 | 66 | 92 | 490 |
-| last720d | 2024-10-16 | 32 | 578 | 49 | 236 | 235 | 1757 |
+| 30d | 2026-09-07 | 1 | 31 | 10 | 7 | 21 | 55 |
+| last60d | 2026-08-08 | 2 | 39 | 16 | 8 | 32 | 88 |
+| 90d | 2026-07-09 | 3 | 49 | 23 | 9 | 38 | 129 |
+| last180d | 2026-04-10 | 6 | 88 | 38 | 21 | 57 | 245 |
+| 360d | 2025-10-12 | 10 | 172 | 45 | 68 | 93 | 490 |
+| last720d | 2024-10-17 | 33 | 579 | 50 | 238 | 236 | 1746 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:55:13Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:21:32Z._
