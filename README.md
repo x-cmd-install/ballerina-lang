@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2201.14.0` (2026-10-07)
+- **Latest**: `v2201.13.7` (2026-10-08)
 - **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,520 · **Contributors**: 374
+- **Stars**: 3,863 · **Forks**: 834 · **Open issues**: 18,521 · **Contributors**: 374
 
 ## Totals (cumulative)
 
-- **Releases**: 260 · **Merged PRs**: 22105 · **Open PRs**: 50 · **Closed issues**: 16940 · **Open issues**: 1580 · **Commits**: 127666
+- **Releases**: 261 · **Merged PRs**: 22106 · **Open PRs**: 50 · **Closed issues**: 16942 · **Open issues**: 1579 · **Commits**: 127666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 31 | 10 | 7 | 21 | 55 |
-| last60d | 2026-08-08 | 2 | 39 | 16 | 8 | 32 | 88 |
-| 90d | 2026-07-09 | 3 | 49 | 23 | 9 | 38 | 129 |
-| last180d | 2026-04-10 | 6 | 88 | 38 | 21 | 57 | 245 |
-| 360d | 2025-10-12 | 10 | 172 | 45 | 68 | 93 | 490 |
-| last720d | 2024-10-17 | 33 | 579 | 50 | 238 | 236 | 1746 |
+| 30d | 2026-09-08 | 2 | 32 | 12 | 7 | 22 | 55 |
+| last60d | 2026-08-09 | 3 | 40 | 17 | 8 | 33 | 88 |
+| 90d | 2026-07-10 | 4 | 49 | 24 | 9 | 39 | 129 |
+| last180d | 2026-04-11 | 7 | 88 | 38 | 21 | 58 | 245 |
+| 360d | 2025-10-13 | 11 | 173 | 45 | 67 | 94 | 490 |
+| last720d | 2024-10-18 | 34 | 578 | 50 | 238 | 236 | 1744 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:21:32Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:27:20Z._
