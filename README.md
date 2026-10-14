@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2201.13.7` (2026-10-08)
+- **Latest**: `v2201.14.1` (2026-10-13)
 - **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 3,863 · **Forks**: 835 · **Open issues**: 18,526 · **Contributors**: 374
+- **Stars**: 3,864 · **Forks**: 835 · **Open issues**: 18,529 · **Contributors**: 374
 
 ## Totals (cumulative)
 
-- **Releases**: 261 · **Merged PRs**: 22108 · **Open PRs**: 50 · **Closed issues**: 16944 · **Open issues**: 1582 · **Commits**: 127666
+- **Releases**: 262 · **Merged PRs**: 22112 · **Open PRs**: 48 · **Closed issues**: 16944 · **Open issues**: 1585 · **Commits**: 127666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 2 | 30 | 11 | 8 | 21 | 34 |
-| last60d | 2026-08-14 | 3 | 41 | 17 | 10 | 34 | 85 |
-| 90d | 2026-07-15 | 4 | 50 | 21 | 11 | 42 | 117 |
-| last180d | 2026-04-16 | 7 | 88 | 36 | 23 | 60 | 236 |
-| 360d | 2025-10-18 | 11 | 172 | 45 | 67 | 95 | 470 |
-| last720d | 2024-10-23 | 34 | 576 | 50 | 238 | 235 | 1725 |
+| 30d | 2026-09-14 | 3 | 34 | 9 | 8 | 22 | 34 |
+| last60d | 2026-08-15 | 4 | 45 | 13 | 10 | 37 | 85 |
+| 90d | 2026-07-16 | 5 | 54 | 16 | 11 | 43 | 117 |
+| last180d | 2026-04-17 | 8 | 90 | 34 | 23 | 63 | 236 |
+| 360d | 2025-10-19 | 12 | 176 | 43 | 66 | 98 | 470 |
+| last720d | 2024-10-24 | 35 | 579 | 48 | 238 | 237 | 1716 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:13:19Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:19:45Z._
