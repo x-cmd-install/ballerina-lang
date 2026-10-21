@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,865 · **Forks**: 835 · **Open issues**: 18,532 · **Contributors**: 374
+- **Stars**: 3,865 · **Forks**: 835 · **Open issues**: 18,535 · **Contributors**: 374
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 22115 · **Open PRs**: 48 · **Closed issues**: 16944 · **Open issues**: 1588 · **Commits**: 127666
+- **Releases**: 262 · **Merged PRs**: 22115 · **Open PRs**: 48 · **Closed issues**: 16945 · **Open issues**: 1590 · **Commits**: 127666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 3 | 30 | 8 | 4 | 19 | 6 |
-| last60d | 2026-08-21 | 4 | 47 | 12 | 10 | 38 | 74 |
-| 90d | 2026-07-22 | 5 | 55 | 16 | 11 | 44 | 103 |
-| last180d | 2026-04-23 | 7 | 92 | 33 | 21 | 61 | 228 |
-| 360d | 2025-10-25 | 12 | 175 | 42 | 61 | 98 | 454 |
-| last720d | 2024-10-30 | 35 | 577 | 48 | 234 | 238 | 1694 |
+| 30d | 2026-09-21 | 3 | 26 | 8 | 3 | 22 | 6 |
+| last60d | 2026-08-22 | 4 | 47 | 12 | 10 | 41 | 74 |
+| 90d | 2026-07-23 | 5 | 53 | 16 | 11 | 47 | 103 |
+| last180d | 2026-04-24 | 7 | 92 | 33 | 21 | 64 | 228 |
+| 360d | 2025-10-26 | 12 | 175 | 42 | 61 | 101 | 454 |
+| last720d | 2024-10-31 | 35 | 576 | 48 | 235 | 239 | 1694 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T06:14:34Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T06:05:01Z._
