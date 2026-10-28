@@ -32,7 +32,7 @@ x install ballerina-lang
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install ballerina-lang
 
 ## 流行度
 
-- **Star**: 3,867 · **Fork**: 836 · **开放 issue**: 18,541 · **贡献者**: 374
+- **Star**: 3,868 · **Fork**: 836 · **开放 issue**: 18,541 · **贡献者**: 374
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install ballerina-lang
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 22 | 12 | 2 | 24 | 0 |
-| last60d | 2026-08-28 | 4 | 44 | 17 | 10 | 47 | 62 |
-| 90d | 2026-07-29 | 4 | 53 | 21 | 11 | 52 | 96 |
-| last180d | 2026-04-30 | 7 | 89 | 37 | 19 | 69 | 220 |
-| 360d | 2025-11-01 | 12 | 173 | 47 | 57 | 106 | 438 |
-| last720d | 2024-11-06 | 34 | 566 | 53 | 230 | 245 | 1670 |
+| 30d | 2026-09-28 | 3 | 20 | 11 | 2 | 24 | 0 |
+| last60d | 2026-08-29 | 4 | 44 | 17 | 10 | 47 | 62 |
+| 90d | 2026-07-30 | 4 | 51 | 21 | 11 | 52 | 96 |
+| last180d | 2026-05-01 | 7 | 89 | 36 | 19 | 69 | 220 |
+| 360d | 2025-11-02 | 12 | 173 | 47 | 57 | 106 | 438 |
+| last720d | 2024-11-07 | 34 | 565 | 53 | 230 | 245 | 1662 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ ballerina-lang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T06:31:00Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T07:09:23Z._
