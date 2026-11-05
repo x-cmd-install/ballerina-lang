@@ -14,12 +14,12 @@ x install ballerina-lang
 
 ## Code insight
 
-Total: **2,240,441** lines of code across **13470** files in the top 5 languages.
+Total: **2,240,470** lines of code across **13470** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,528,382 | 0 | 21 | 5466 |
-| Java | 666,912 | 188,241 | 117,129 | 6194 |
+| Java | 666,941 | 188,241 | 117,130 | 6194 |
 | JavaScript | 19,215 | 220 | 1,190 | 4 |
 | Toml | 16,572 | 892 | 2,349 | 1620 |
 | Xml | 4,761 | 2,105 | 166 | 186 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2201.14.1` (2026-10-13)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
-- **Stars**: 3,880 · **Forks**: 840 · **Open issues**: 18,561 · **Contributors**: 374
+- **Stars**: 3,880 · **Forks**: 840 · **Open issues**: 18,565 · **Contributors**: 375
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 22122 · **Open PRs**: 56 · **Closed issues**: 16945 · **Open issues**: 1616 · **Commits**: 127669
+- **Releases**: 262 · **Merged PRs**: 22125 · **Open PRs**: 57 · **Closed issues**: 16947 · **Open issues**: 1618 · **Commits**: 127675
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 19 | 14 | 3 | 43 | 3 |
-| last60d | 2026-09-05 | 3 | 47 | 19 | 10 | 60 | 63 |
-| 90d | 2026-08-06 | 4 | 56 | 23 | 11 | 71 | 91 |
-| last180d | 2026-05-08 | 7 | 86 | 38 | 19 | 87 | 200 |
-| 360d | 2025-11-09 | 11 | 176 | 50 | 58 | 124 | 438 |
-| last720d | 2024-11-14 | 34 | 551 | 56 | 226 | 263 | 1616 |
+| 30d | 2026-10-06 | 3 | 18 | 16 | 3 | 44 | 4 |
+| last60d | 2026-09-06 | 3 | 50 | 20 | 12 | 62 | 69 |
+| 90d | 2026-08-07 | 4 | 59 | 24 | 13 | 73 | 97 |
+| last180d | 2026-05-09 | 6 | 89 | 39 | 21 | 89 | 206 |
+| 360d | 2025-11-10 | 11 | 179 | 51 | 59 | 126 | 444 |
+| last720d | 2024-11-15 | 34 | 554 | 57 | 228 | 265 | 1620 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:49:06Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:13:45Z._
