@@ -30,9 +30,9 @@ x install ballerina-lang
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Signed-Releases** (-1/10) — no releases found
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install ballerina-lang
 
 ## 流行度
 
-- **Star**: 3,880 · **Fork**: 840 · **开放 issue**: 18,570 · **贡献者**: 375
+- **Star**: 3,880 · **Fork**: 840 · **开放 issue**: 18,572 · **贡献者**: 375
 
 ## 累计统计
 
-- **发布数**: 262 · **已合并 PR**: 22128 · **开放 PR**: 62 · **已关闭 issue**: 16947 · **开放 issue**: 1623 · **提交数**: 127675
+- **发布数**: 262 · **已合并 PR**: 22133 · **开放 PR**: 58 · **已关闭 issue**: 16948 · **开放 issue**: 1624 · **提交数**: 127675
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 15 | 21 | 3 | 45 | 3 |
-| last60d | 2026-09-09 | 3 | 51 | 25 | 11 | 67 | 47 |
-| 90d | 2026-08-10 | 4 | 62 | 30 | 13 | 78 | 94 |
-| last180d | 2026-05-12 | 6 | 91 | 44 | 20 | 94 | 200 |
-| 360d | 2025-11-13 | 11 | 180 | 56 | 56 | 130 | 427 |
-| last720d | 2024-11-18 | 34 | 544 | 62 | 227 | 269 | 1603 |
+| 30d | 2026-10-11 | 1 | 20 | 16 | 4 | 46 | 3 |
+| last60d | 2026-09-11 | 3 | 55 | 21 | 12 | 64 | 47 |
+| 90d | 2026-08-12 | 4 | 66 | 26 | 14 | 79 | 94 |
+| last180d | 2026-05-14 | 6 | 96 | 40 | 21 | 95 | 200 |
+| 360d | 2025-11-15 | 10 | 183 | 51 | 57 | 130 | 427 |
+| last720d | 2024-11-20 | 34 | 536 | 58 | 225 | 265 | 1563 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ ballerina-lang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:19:24Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T09:03:14Z._
