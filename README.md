@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 16 | 17 | 2 | 48 | 3 |
-| last60d | 2026-09-14 | 4 | 56 | 21 | 12 | 69 | 47 |
-| 90d | 2026-08-15 | 5 | 67 | 25 | 14 | 84 | 94 |
-| last180d | 2026-05-17 | 7 | 95 | 41 | 21 | 102 | 200 |
-| 360d | 2025-11-18 | 11 | 183 | 51 | 57 | 137 | 427 |
-| last720d | 2024-11-23 | 34 | 529 | 58 | 223 | 270 | 1519 |
+| 30d | 2026-10-15 | 1 | 15 | 16 | 2 | 47 | 3 |
+| last60d | 2026-09-15 | 4 | 53 | 21 | 11 | 68 | 47 |
+| 90d | 2026-08-16 | 5 | 67 | 25 | 14 | 84 | 94 |
+| last180d | 2026-05-18 | 7 | 95 | 41 | 21 | 102 | 200 |
+| 360d | 2025-11-19 | 11 | 183 | 51 | 57 | 136 | 427 |
+| last720d | 2024-11-24 | 34 | 529 | 58 | 223 | 270 | 1519 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ballerina-lang lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:27:21Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:24:03Z._
