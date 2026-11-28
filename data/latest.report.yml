@@ -7,7 +7,7 @@ about:
   latestVersion: "v2201.14.2"
   latestRelease: "v2201.14.2"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:39:06Z
+  collectedAt: 2026-11-28T09:31:46Z
 timeline:
   created: 2016-11-16
   lastCommit: 2026-11-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-11
   lastPrerelease: 
 popularity:
-  star: 3878
+  star: 3879
   watcher: 154
   fork: 843
   release: 263
@@ -34,15 +34,15 @@ language:
 totalBytes: 168608478
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 16
+    mergedPR: 12
     openPR: 29
-    closedIssue: 5
-    openIssue: 74
+    closedIssue: 4
+    openIssue: 73
     commit: 7
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 4
     mergedPR: 41
     openPR: 35
@@ -50,7 +50,7 @@ recent:
     openIssue: 92
     commit: 10
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 5
     mergedPR: 66
     openPR: 40
@@ -58,7 +58,7 @@ recent:
     openIssue: 114
     commit: 83
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 7
     mergedPR: 93
     openPR: 57
@@ -66,15 +66,15 @@ recent:
     openIssue: 134
     commit: 179
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 11
-    mergedPR: 182
+    mergedPR: 181
     openPR: 67
-    closedIssue: 62
+    closedIssue: 61
     openIssue: 164
     commit: 415
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 33
     mergedPR: 503
     openPR: 74
@@ -90,7 +90,7 @@ total:
   commit: 127679
 ---
 path: /home/runner/.x-repo/github.com/ballerina-platform/ballerina-lang
-collectedAt: 2026-11-27T10:40:41Z
+collectedAt: 2026-11-28T09:33:15Z
 loc:
   Json:
     code: 1528382
